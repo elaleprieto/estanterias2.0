@@ -1,0 +1,25 @@
+form {
+	margin: auto;
+	width: 70%;
+}
+#cliente {
+	display: block;
+}
+/************************************************************
+ * 							label							*
+ ************************************************************/
+label.etiqueta {
+	display: inline-block;
+}
+label{
+	margin: 0px;
+	margin-top: 15px;
+}
+.noIMG {
+	display: none;
+}
+.IMG {
+	display: inline;
+	width: 20px;
+	height: 20px;
+}

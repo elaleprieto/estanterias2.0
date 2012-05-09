@@ -1,0 +1,13 @@
+#mensaje_flotante {
+	position: absolute;
+	top: 70px;
+	right: 20px;
+	display: none;
+	padding: 7px;
+}
+.mensaje_ok {
+	background-color: #90ee90
+}
+.mensaje_error {
+	background-color: #EE3322;
+}

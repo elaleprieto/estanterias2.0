@@ -1,0 +1,1503 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-02-07 12:22-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/articulos_controller.php:23;38;88
+msgid "Invalid articulo"
+msgstr ""
+
+#: /controllers/articulos_controller.php:74;93
+msgid "The articulo has been saved"
+msgstr ""
+
+#: /controllers/articulos_controller.php:77;96
+msgid "The articulo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/articulos_controller.php:106
+msgid "Invalid id for articulo"
+msgstr ""
+
+#: /controllers/articulos_controller.php:110
+msgid "Articulo deleted"
+msgstr ""
+
+#: /controllers/articulos_controller.php:113
+msgid "Articulo was not deleted"
+msgstr ""
+
+#: /controllers/articulos_controller.php:130
+msgid "No se actualizó ningún artículo porque no se encontraron diferencias."
+msgstr ""
+
+#: /controllers/articulos_controller.php:275
+msgid "Artículo inválido"
+msgstr ""
+
+#: /controllers/articulos_controller.php:303
+msgid "El artículo ha sido actualizado"
+msgstr ""
+
+#: /controllers/articulos_controller.php:307
+msgid "Hubo un problema actualizando el artículo."
+msgstr ""
+
+#: /controllers/clientes_controller.php:20;43
+msgid "Invalid cliente"
+msgstr ""
+
+#: /controllers/clientes_controller.php:30;48
+msgid "The cliente has been saved"
+msgstr ""
+
+#: /controllers/clientes_controller.php:33;51
+msgid "The cliente could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/clientes_controller.php:65
+msgid "Invalid id for cliente"
+msgstr ""
+
+#: /controllers/clientes_controller.php:69
+msgid "Cliente deleted"
+msgstr ""
+
+#: /controllers/clientes_controller.php:72
+msgid "Cliente was not deleted"
+msgstr ""
+
+#: /controllers/clientes_controller.php:87
+msgid "No se actualizó ningun cliente porque no se encontraron diferencias."
+msgstr ""
+
+#: /controllers/ivas_controller.php:13;33
+msgid "Invalid iva"
+msgstr ""
+
+#: /controllers/ivas_controller.php:23;38
+msgid "The iva has been saved"
+msgstr ""
+
+#: /controllers/ivas_controller.php:26;41
+msgid "The iva could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/ivas_controller.php:51
+msgid "Invalid id for iva"
+msgstr ""
+
+#: /controllers/ivas_controller.php:55
+msgid "Iva deleted"
+msgstr ""
+
+#: /controllers/ivas_controller.php:58
+msgid "Iva was not deleted"
+msgstr ""
+
+#: /controllers/localidades_controller.php:13;35
+msgid "Invalid localidad"
+msgstr ""
+
+#: /controllers/localidades_controller.php:23;40
+msgid "The localidad has been saved"
+msgstr ""
+
+#: /controllers/localidades_controller.php:26;43
+msgid "The localidad could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/localidades_controller.php:55
+msgid "Invalid id for localidad"
+msgstr ""
+
+#: /controllers/localidades_controller.php:59
+msgid "Localidad deleted"
+msgstr ""
+
+#: /controllers/localidades_controller.php:62
+msgid "Localidad was not deleted"
+msgstr ""
+
+#: /controllers/localidades_controller.php:77
+msgid "No se actualizó ninguna localidad porque no se encontraron diferencias."
+msgstr ""
+
+#: /controllers/ordenes_controller.php:25;49
+msgid "Invalid orden"
+msgstr ""
+
+#: /controllers/ordenes_controller.php:35;54
+msgid "The orden has been saved"
+msgstr ""
+
+#: /controllers/ordenes_controller.php:38;57
+msgid "The orden could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/ordenes_controller.php:70
+msgid "Invalid id for orden"
+msgstr ""
+
+#: /controllers/ordenes_controller.php:74
+msgid "Orden deleted"
+msgstr ""
+
+#: /controllers/ordenes_controller.php:77
+msgid "Orden was not deleted"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:17;55
+msgid "Invalid pasillo"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:39
+msgid "Los pasillos han sido creados"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:43
+msgid "El pasillo derecho ha sido creado, pero el izquierdo no."
+msgstr ""
+
+#: /controllers/pasillos_controller.php:48
+msgid "No se han podido crear los pasillos."
+msgstr ""
+
+#: /controllers/pasillos_controller.php:60
+msgid "The pasillo has been saved"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:63
+msgid "The pasillo could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/pasillos_controller.php:73
+msgid "Invalid id for pasillo"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:77
+msgid "Pasillo deleted"
+msgstr ""
+
+#: /controllers/pasillos_controller.php:80
+msgid "Pasillo was not deleted"
+msgstr ""
+
+#: /controllers/pedidos_controller.php:21;151
+msgid "Invalid pedido"
+msgstr ""
+
+#: /controllers/pedidos_controller.php:226
+msgid "The pedido could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/provincias_controller.php:13;33
+msgid "Invalid provincia"
+msgstr ""
+
+#: /controllers/provincias_controller.php:23;38
+msgid "The provincia has been saved"
+msgstr ""
+
+#: /controllers/provincias_controller.php:26;41
+msgid "The provincia could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/provincias_controller.php:51
+msgid "Invalid id for provincia"
+msgstr ""
+
+#: /controllers/provincias_controller.php:55
+msgid "Provincia deleted"
+msgstr ""
+
+#: /controllers/provincias_controller.php:58
+msgid "Provincia was not deleted"
+msgstr ""
+
+#: /controllers/provincias_controller.php:73
+msgid "No se actualizó ninguna provincia porque no se encontraron diferencias."
+msgstr ""
+
+#: /controllers/transportes_controller.php:13;33
+msgid "Invalid transporte"
+msgstr ""
+
+#: /controllers/transportes_controller.php:23;38
+msgid "The transporte has been saved"
+msgstr ""
+
+#: /controllers/transportes_controller.php:26;41
+msgid "The transporte could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/transportes_controller.php:51
+msgid "Invalid id for transporte"
+msgstr ""
+
+#: /controllers/transportes_controller.php:55
+msgid "Transporte deleted"
+msgstr ""
+
+#: /controllers/transportes_controller.php:58
+msgid "Transporte was not deleted"
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:17;37;73;93
+msgid "Invalid ubicacion"
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:27;42;83;98
+msgid "The ubicacion has been saved"
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:30;45;86;101
+msgid "The ubicacion could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:55;111
+msgid "Invalid id for ubicacion"
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:59;115
+msgid "Ubicacion deleted"
+msgstr ""
+
+#: /controllers/ubicaciones_controller.php:62;118
+msgid "Ubicacion was not deleted"
+msgstr ""
+
+#: /controllers/ubicados_controller.php:76
+msgid "Invalid ubicado"
+msgstr ""
+
+#: /controllers/ubicados_controller.php:273
+msgid "Invalid id for ubicado"
+msgstr ""
+
+#: /controllers/ubicados_controller.php:277
+msgid "Ubicado deleted"
+msgstr ""
+
+#: /controllers/ubicados_controller.php:280
+msgid "Ubicado was not deleted"
+msgstr ""
+
+#: /views/articulos/actualizar.ctp:3
+msgid "Actualización de Articulos"
+msgstr ""
+
+#: /views/articulos/actualizar.ctp:4
+#: /views/articulos/admin_fotografiar.ctp:19
+#: /views/articulos/fotografiar.ctp:8
+#: /views/clientes/actualizar.ctp:4
+#: /views/clientes/admin_actualizar.ctp:4
+#: /views/localidades/actualizar.ctp:4
+#: /views/pedidos/admin_actualizar.ctp:5
+#: /views/provincias/actualizar.ctp:4
+msgid "Actualizar"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:5
+msgid "Add Articulo"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:17
+#: /views/articulos/edit.ctp:13
+#: /views/clientes/add.ctp:14
+#: /views/clientes/admin_add.ctp:14
+#: /views/clientes/admin_edit.ctp:19
+#: /views/clientes/edit.ctp:15
+#: /views/ivas/add.ctp:9
+#: /views/ivas/edit.ctp:10
+#: /views/localidades/add.ctp:11
+#: /views/localidades/edit.ctp:12
+#: /views/ordenes/edit.ctp:12
+#: /views/pasillos/add.ctp:10
+#: /views/pasillos/edit.ctp:12
+#: /views/provincias/add.ctp:9
+#: /views/provincias/edit.ctp:10
+#: /views/transportes/add.ctp:9
+#: /views/transportes/edit.ctp:10
+#: /views/ubicaciones/add.ctp:10
+#: /views/ubicaciones/edit.ctp:11
+#: /views/ubicados/admin_add.ctp:30
+#: /views/ubicados/admin_agregar.ctp:14
+#: /views/ubicados/admin_edit.ctp:13
+#: /views/ubicados/mobile/admin_agregar.ctp:52
+msgid "Submit"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:20
+#: /views/articulos/admin_listar_desubicados.ctp:26;79
+#: /views/articulos/admin_set_pack.ctp:17
+#: /views/articulos/admin_set_stock.ctp:16
+#: /views/articulos/admin_view.ctp:52
+#: /views/articulos/edit.ctp:16
+#: /views/articulos/fotografiar.ctp:16
+#: /views/articulos/index.ctp:13;65
+#: /views/articulos/set_stock.ctp:16
+#: /views/articulos/view.ctp:68
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:32
+#: /views/clientes/add.ctp:17
+#: /views/clientes/admin_add.ctp:17
+#: /views/clientes/admin_edit.ctp:22
+#: /views/clientes/admin_index.ctp:14;57
+#: /views/clientes/admin_view.ctp:52;73
+#: /views/clientes/edit.ctp:18
+#: /views/clientes/index.ctp:14;57
+#: /views/clientes/view.ctp:52;73
+#: /views/ivas/add.ctp:12
+#: /views/ivas/edit.ctp:13
+#: /views/ivas/index.ctp:9;47
+#: /views/ivas/view.ctp:27;52
+#: /views/localidades/add.ctp:14
+#: /views/localidades/edit.ctp:15
+#: /views/localidades/index.ctp:11;53
+#: /views/localidades/view.ctp:37;64
+#: /views/ordenes/edit.ctp:15
+#: /views/ordenes/index.ctp:11;55
+#: /views/ordenes/view.ctp:37
+#: /views/pasillos/add.ctp:13
+#: /views/pasillos/edit.ctp:15
+#: /views/pasillos/index.ctp:11;51
+#: /views/pasillos/view.ctp:32;52
+#: /views/pedidos/view.ctp:27
+#: /views/provincias/add.ctp:12
+#: /views/provincias/edit.ctp:13
+#: /views/provincias/index.ctp:9;47
+#: /views/provincias/view.ctp:27;47
+#: /views/transportes/add.ctp:12
+#: /views/transportes/edit.ctp:13
+#: /views/transportes/index.ctp:9;47
+#: /views/transportes/view.ctp:27;52
+#: /views/ubicaciones/add.ctp:13
+#: /views/ubicaciones/edit.ctp:14
+#: /views/ubicaciones/index.ctp:10;37
+#: /views/ubicaciones/view.ctp:32;55
+#: /views/ubicados/admin_add.ctp:33
+#: /views/ubicados/admin_agregar.ctp:17
+#: /views/ubicados/admin_edit.ctp:16
+#: /views/ubicados/view.ctp:37
+msgid "Actions"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:23
+#: /views/articulos/admin_set_pack.ctp:21
+#: /views/articulos/admin_set_stock.ctp:20
+#: /views/articulos/admin_view.ctp:56
+#: /views/articulos/edit.ctp:20
+#: /views/articulos/fotografiar.ctp:20
+#: /views/articulos/set_stock.ctp:20
+#: /views/ordenes/edit.ctp:20
+#: /views/ordenes/index.ctp:58
+#: /views/ordenes/view.ctp:43
+#: /views/pedidos/view.ctp:33
+#: /views/ubicados/admin_add.ctp:39
+#: /views/ubicados/admin_agregar.ctp:23
+#: /views/ubicados/admin_edit.ctp:21
+#: /views/ubicados/view.ctp:43
+#: /views/ubicados/mobile/admin_add.ctp:3
+#: /views/ubicados/mobile/admin_agregar.ctp:3
+msgid "List Articulos"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:26
+#: /views/articulos/admin_set_pack.ctp:22
+#: /views/articulos/admin_set_stock.ctp:21
+#: /views/articulos/admin_view.ctp:57
+#: /views/articulos/edit.ctp:21
+#: /views/articulos/fotografiar.ctp:21
+#: /views/articulos/set_stock.ctp:21
+#: /views/ubicaciones/add.ctp:19
+#: /views/ubicaciones/edit.ctp:21
+#: /views/ubicaciones/index.ctp:42
+#: /views/ubicaciones/view.ctp:40
+#: /views/ubicados/admin_add.ctp:36
+#: /views/ubicados/admin_agregar.ctp:20
+#: /views/ubicados/admin_edit.ctp:20
+#: /views/ubicados/view.ctp:41
+#: /views/ubicados/mobile/admin_add.ctp:2
+#: /views/ubicados/mobile/admin_agregar.ctp:2
+msgid "List Ubicados"
+msgstr ""
+
+#: /views/articulos/admin_add.ctp:33
+#: /views/articulos/admin_set_pack.ctp:23
+#: /views/articulos/admin_set_stock.ctp:22
+#: /views/articulos/admin_view.ctp:58
+#: /views/articulos/edit.ctp:22
+#: /views/articulos/fotografiar.ctp:22
+#: /views/articulos/set_stock.ctp:22
+#: /views/ubicaciones/add.ctp:20
+#: /views/ubicaciones/edit.ctp:22
+#: /views/ubicaciones/index.ctp:43
+#: /views/ubicaciones/view.ctp:41;84
+#: /views/ubicados/view.ctp:42
+msgid "New Ubicado"
+msgstr ""
+
+#: /views/articulos/admin_fotografiar.ctp:9
+#: /views/articulos/fotografiar.ctp:4
+msgid "Fotografiar Articulo"
+msgstr ""
+
+#: /views/articulos/admin_index.ctp:6
+msgid "Listado de Artículos"
+msgstr ""
+
+#: /views/articulos/admin_index.ctp:56
+#: /views/articulos/admin_set_pack.ctp:20
+#: /views/articulos/admin_set_stock.ctp:19
+#: /views/articulos/edit.ctp:19
+#: /views/articulos/fotografiar.ctp:19
+#: /views/articulos/index.ctp:45
+#: /views/articulos/set_stock.ctp:19
+#: /views/clientes/admin_edit.ctp:25
+#: /views/clientes/admin_index.ctp:37
+#: /views/clientes/admin_view.ctp:55;93
+#: /views/clientes/edit.ctp:21
+#: /views/clientes/index.ctp:37
+#: /views/clientes/view.ctp:55;93
+#: /views/ivas/edit.ctp:16
+#: /views/ivas/index.ctp:27
+#: /views/ivas/view.ctp:30;76
+#: /views/localidades/edit.ctp:18
+#: /views/localidades/index.ctp:33
+#: /views/localidades/view.ctp:40;88
+#: /views/ordenes/edit.ctp:18
+#: /views/ordenes/index.ctp:35
+#: /views/ordenes/view.ctp:40
+#: /views/pasillos/edit.ctp:18
+#: /views/pasillos/index.ctp:31
+#: /views/pasillos/view.ctp:35;71
+#: /views/pedidos/view.ctp:30
+#: /views/provincias/edit.ctp:16
+#: /views/provincias/index.ctp:27
+#: /views/provincias/view.ctp:30;66
+#: /views/transportes/edit.ctp:16
+#: /views/transportes/index.ctp:27
+#: /views/transportes/view.ctp:30;76
+#: /views/ubicaciones/edit.ctp:17
+#: /views/ubicaciones/index.ctp:29
+#: /views/ubicaciones/view.ctp:35;75
+#: /views/ubicados/view.ctp:40
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/articulos/admin_listar.ctp:72
+#: /views/articulos/admin_listar_desubicados.ctp:81
+#: /views/articulos/mobile/admin_listar.ctp:14
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:14
+msgid "Listar Artículos"
+msgstr ""
+
+#: /views/articulos/admin_listar.ctp:79
+#: /views/articulos/admin_listar_desubicados.ctp:82
+#: /views/articulos/index.ctp:67
+#: /views/articulos/view.ctp:70
+#: /views/articulos/mobile/admin_listar.ctp:19
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:15
+msgid "Listar Ubicados"
+msgstr ""
+
+#: /views/articulos/admin_listar.ctp:86
+#: /views/articulos/admin_listar_desubicados.ctp:83
+#: /views/articulos/mobile/admin_listar.ctp:24
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:16
+msgid "Nuevo Pasillo"
+msgstr ""
+
+#: /views/articulos/admin_listar.ctp:93
+#: /views/articulos/admin_listar_desubicados.ctp:84
+#: /views/articulos/mobile/admin_listar.ctp:29
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:17
+msgid "Nueva Posición"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:14
+#: /views/articulos/index.ctp:2
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:20
+msgid "Articulos"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:16;72
+#: /views/articulos/index.ctp:58
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:22;78
+#: /views/clientes/admin_index.ctp:50
+#: /views/clientes/index.ctp:50
+#: /views/ivas/index.ctp:40
+#: /views/localidades/index.ctp:46
+#: /views/ordenes/index.ctp:48
+#: /views/pasillos/index.ctp:44
+#: /views/provincias/index.ctp:40
+#: /views/transportes/index.ctp:40
+msgid "previous"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:19;75
+#: /views/articulos/index.ctp:61
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:25;81
+#: /views/clientes/admin_index.ctp:53
+#: /views/clientes/index.ctp:53
+#: /views/ivas/index.ctp:43
+#: /views/localidades/index.ctp:49
+#: /views/ordenes/index.ctp:51
+#: /views/pasillos/index.ctp:47
+#: /views/provincias/index.ctp:43
+#: /views/transportes/index.ctp:43
+msgid "next"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:51
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:57
+msgid "Ubicar"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:62
+msgid "Agregar"
+msgstr ""
+
+#: /views/articulos/admin_listar_desubicados.ctp:67
+#: /views/articulos/index.ctp:53
+#: /views/articulos/mobile/admin_listar_desubicados.ctp:73
+#: /views/clientes/admin_index.ctp:45
+#: /views/clientes/index.ctp:45
+#: /views/ivas/index.ctp:35
+#: /views/localidades/index.ctp:41
+#: /views/ordenes/index.ctp:43
+#: /views/pasillos/index.ctp:39
+#: /views/provincias/index.ctp:35
+#: /views/transportes/index.ctp:35
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/articulos/admin_set_pack.ctp:4
+#: /views/articulos/admin_set_stock.ctp:4
+#: /views/articulos/set_stock.ctp:4
+msgid "Set Stock Articulo"
+msgstr ""
+
+#: /views/articulos/admin_set_pack.ctp:20
+#: /views/articulos/admin_set_stock.ctp:19
+#: /views/articulos/admin_view.ctp:55
+#: /views/articulos/edit.ctp:19
+#: /views/articulos/fotografiar.ctp:19
+#: /views/articulos/index.ctp:45
+#: /views/articulos/set_stock.ctp:19
+#: /views/clientes/admin_edit.ctp:25
+#: /views/clientes/admin_index.ctp:37
+#: /views/clientes/admin_view.ctp:93
+#: /views/clientes/edit.ctp:21
+#: /views/clientes/index.ctp:37
+#: /views/clientes/view.ctp:93
+#: /views/ivas/edit.ctp:16
+#: /views/ivas/index.ctp:27
+#: /views/ivas/view.ctp:76
+#: /views/localidades/edit.ctp:18
+#: /views/localidades/index.ctp:33
+#: /views/localidades/view.ctp:88
+#: /views/ordenes/edit.ctp:18
+#: /views/ordenes/index.ctp:35
+#: /views/pasillos/edit.ctp:18
+#: /views/pasillos/index.ctp:31
+#: /views/pasillos/view.ctp:71
+#: /views/provincias/edit.ctp:16
+#: /views/provincias/index.ctp:27
+#: /views/provincias/view.ctp:66
+#: /views/transportes/edit.ctp:16
+#: /views/transportes/index.ctp:27
+#: /views/transportes/view.ctp:76
+#: /views/ubicaciones/edit.ctp:17
+#: /views/ubicaciones/index.ctp:29
+#: /views/ubicaciones/view.ctp:75
+#: /views/ubicados/admin_edit.ctp:19
+msgid "Delete"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:15
+#: /views/articulos/view.ctp:4
+#: /views/ivas/view.ctp:43
+#: /views/localidades/view.ctp:55
+msgid "Codigo"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:20
+#: /views/articulos/view.ctp:9
+msgid "Detalle"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:25
+#: /views/articulos/view.ctp:14
+msgid "Unidad"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:30
+#: /views/articulos/view.ctp:19
+msgid "Stock"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:35
+msgid "Pack"
+msgstr ""
+
+#: /views/articulos/admin_view.ctp:40
+#: /views/articulos/view.ctp:56
+msgid "Foto"
+msgstr ""
+
+#: /views/articulos/edit.ctp:4
+msgid "Edit Articulo"
+msgstr ""
+
+#: /views/articulos/fotografiar.ctp:7
+msgid "Actualización de Foto"
+msgstr ""
+
+#: /views/articulos/index.ctp:41
+#: /views/clientes/admin_index.ctp:35
+#: /views/clientes/admin_view.ctp:91
+#: /views/clientes/index.ctp:35
+#: /views/clientes/view.ctp:91
+#: /views/ivas/index.ctp:25
+#: /views/ivas/view.ctp:74
+#: /views/localidades/index.ctp:31
+#: /views/localidades/view.ctp:86
+#: /views/ordenes/index.ctp:33
+#: /views/pasillos/index.ctp:29
+#: /views/pasillos/view.ctp:69
+#: /views/provincias/index.ctp:25
+#: /views/provincias/view.ctp:64
+#: /views/transportes/index.ctp:25
+#: /views/transportes/view.ctp:74
+#: /views/ubicaciones/index.ctp:27
+#: /views/ubicaciones/view.ctp:73
+msgid "View"
+msgstr ""
+
+#: /views/articulos/index.ctp:42
+#: /views/clientes/admin_index.ctp:36
+#: /views/clientes/admin_view.ctp:92
+#: /views/clientes/index.ctp:36
+#: /views/clientes/view.ctp:92
+#: /views/ivas/index.ctp:26
+#: /views/ivas/view.ctp:75
+#: /views/localidades/index.ctp:32
+#: /views/localidades/view.ctp:87
+#: /views/ordenes/index.ctp:34
+#: /views/pasillos/index.ctp:30
+#: /views/pasillos/view.ctp:70
+#: /views/provincias/index.ctp:26
+#: /views/provincias/view.ctp:65
+#: /views/transportes/index.ctp:26
+#: /views/transportes/view.ctp:75
+#: /views/ubicaciones/index.ctp:28
+#: /views/ubicaciones/view.ctp:74
+msgid "Edit"
+msgstr ""
+
+#: /views/articulos/index.ctp:43
+msgid "Set Stock"
+msgstr ""
+
+#: /views/articulos/index.ctp:44
+msgid "Fotografiar"
+msgstr ""
+
+#: /views/articulos/index.ctp:68
+msgid "Listar Desubicados"
+msgstr ""
+
+#: /views/articulos/view.ctp:2
+#: /views/ordenes/view.ctp:24
+#: /views/ubicados/view.ctp:19
+msgid "Articulo"
+msgstr ""
+
+#: /views/articulos/view.ctp:27
+#: /views/pasillos/view.ctp:2
+msgid "Pasillo"
+msgstr ""
+
+#: /views/articulos/view.ctp:32
+#: /views/pasillos/view.ctp:14
+msgid "Lado"
+msgstr ""
+
+#: /views/articulos/view.ctp:37
+msgid "Posición"
+msgstr ""
+
+#: /views/articulos/view.ctp:42
+#: /views/pasillos/view.ctp:48
+#: /views/ubicaciones/view.ctp:9
+msgid "Altura"
+msgstr ""
+
+#: /views/articulos/view.ctp:50
+msgid "Ubicación"
+msgstr ""
+
+#: /views/clientes/actualizar.ctp:3
+#: /views/clientes/admin_actualizar.ctp:3
+msgid "Actualización de Clientes"
+msgstr ""
+
+#: /views/clientes/add.ctp:4
+#: /views/clientes/admin_add.ctp:4
+msgid "Add Cliente"
+msgstr ""
+
+#: /views/clientes/add.ctp:20
+#: /views/clientes/admin_add.ctp:20
+#: /views/clientes/admin_edit.ctp:26
+#: /views/clientes/admin_view.ctp:56
+#: /views/clientes/edit.ctp:22
+#: /views/clientes/view.ctp:56
+#: /views/ivas/add.ctp:16
+#: /views/ivas/edit.ctp:18
+#: /views/ivas/index.ctp:50
+#: /views/ivas/view.ctp:33
+#: /views/localidades/add.ctp:20
+#: /views/localidades/edit.ctp:22
+#: /views/localidades/index.ctp:58
+#: /views/localidades/view.ctp:45
+msgid "List Clientes"
+msgstr ""
+
+#: /views/clientes/add.ctp:21
+#: /views/clientes/admin_add.ctp:21
+#: /views/clientes/admin_edit.ctp:27
+#: /views/clientes/admin_index.ctp:60
+#: /views/clientes/admin_view.ctp:58
+#: /views/clientes/edit.ctp:23
+#: /views/clientes/index.ctp:60
+#: /views/clientes/view.ctp:58
+#: /views/ordenes/edit.ctp:22
+#: /views/ordenes/index.ctp:60
+#: /views/ordenes/view.ctp:45
+#: /views/pedidos/view.ctp:31
+#: /views/transportes/add.ctp:16
+#: /views/transportes/edit.ctp:18
+#: /views/transportes/index.ctp:50
+#: /views/transportes/view.ctp:33
+msgid "List Pedidos"
+msgstr ""
+
+#: /views/clientes/add.ctp:22
+#: /views/clientes/admin_add.ctp:22
+#: /views/clientes/admin_edit.ctp:28
+#: /views/clientes/admin_index.ctp:61
+#: /views/clientes/admin_view.ctp:59;102
+#: /views/clientes/edit.ctp:24
+#: /views/clientes/index.ctp:61
+#: /views/clientes/view.ctp:59;102
+#: /views/ordenes/edit.ctp:23
+#: /views/ordenes/index.ctp:61
+#: /views/ordenes/view.ctp:46
+#: /views/pedidos/view.ctp:32
+#: /views/transportes/add.ctp:17
+#: /views/transportes/edit.ctp:19
+#: /views/transportes/index.ctp:51
+#: /views/transportes/view.ctp:34;85
+msgid "New Pedido"
+msgstr ""
+
+#: /views/clientes/admin_edit.ctp:4
+#: /views/clientes/admin_view.ctp:54
+#: /views/clientes/edit.ctp:4
+#: /views/clientes/view.ctp:54
+msgid "Edit Cliente"
+msgstr ""
+
+#: /views/clientes/admin_index.ctp:2
+#: /views/clientes/index.ctp:2
+msgid "Clientes"
+msgstr ""
+
+#: /views/clientes/admin_index.ctp:59
+#: /views/clientes/admin_view.ctp:57
+#: /views/clientes/index.ctp:59
+#: /views/clientes/view.ctp:57
+#: /views/ivas/add.ctp:17
+#: /views/ivas/edit.ctp:19
+#: /views/ivas/index.ctp:51
+#: /views/ivas/view.ctp:34;85
+#: /views/localidades/add.ctp:21
+#: /views/localidades/edit.ctp:23
+#: /views/localidades/index.ctp:59
+#: /views/localidades/view.ctp:46;97
+msgid "New Cliente"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:2
+#: /views/clientes/view.ctp:2
+msgid "Cliente"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:4;67
+#: /views/clientes/view.ctp:4;67
+#: /views/ivas/view.ctp:4;42
+#: /views/localidades/view.ctp:4;54
+#: /views/ordenes/view.ctp:4
+#: /views/pasillos/view.ctp:4;47
+#: /views/pedidos/view.ctp:4
+#: /views/provincias/view.ctp:4;42
+#: /views/transportes/view.ctp:4;42
+#: /views/ubicaciones/view.ctp:4;49
+#: /views/ubicados/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:9
+#: /views/clientes/view.ctp:9
+#: /views/ivas/view.ctp:44
+#: /views/localidades/view.ctp:9;56
+#: /views/pasillos/view.ctp:9
+#: /views/provincias/view.ctp:9;43
+#: /views/transportes/view.ctp:9
+msgid "Nombre"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:14
+#: /views/clientes/view.ctp:14
+#: /views/ivas/view.ctp:45
+#: /views/localidades/view.ctp:57
+msgid "Direccion"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:19
+#: /views/clientes/view.ctp:19
+#: /views/ivas/view.ctp:46
+#: /views/localidades/view.ctp:58
+msgid "Cuit"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:24
+#: /views/clientes/view.ctp:24
+#: /views/ivas/view.ctp:47
+#: /views/localidades/view.ctp:59
+msgid "Bonificacion"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:29;69
+#: /views/clientes/view.ctp:29;69
+#: /views/ivas/view.ctp:14;48
+#: /views/localidades/view.ctp:19;60
+#: /views/ordenes/view.ctp:14
+#: /views/pasillos/view.ctp:19;50
+#: /views/pedidos/view.ctp:14
+#: /views/provincias/view.ctp:14;44
+#: /views/transportes/view.ctp:14;43
+#: /views/ubicaciones/view.ctp:19;50
+#: /views/ubicados/view.ctp:9
+msgid "Created"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:34;70
+#: /views/clientes/view.ctp:34;70
+#: /views/ivas/view.ctp:19;49
+#: /views/localidades/view.ctp:24;61
+#: /views/ordenes/view.ctp:19
+#: /views/pasillos/view.ctp:24;51
+#: /views/pedidos/view.ctp:19
+#: /views/provincias/view.ctp:19;45
+#: /views/transportes/view.ctp:19;44
+#: /views/ubicaciones/view.ctp:24;51
+#: /views/ubicados/view.ctp:14
+msgid "Modified"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:39
+#: /views/clientes/view.ctp:39
+#: /views/ivas/view.ctp:50
+#: /views/localidades/view.ctp:62
+msgid "Localidad Id"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:44
+#: /views/clientes/view.ctp:44
+#: /views/ivas/view.ctp:51
+#: /views/localidades/view.ctp:63
+msgid "Iva Id"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:55
+#: /views/clientes/view.ctp:55
+msgid "Delete Cliente"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:63
+#: /views/clientes/view.ctp:63
+#: /views/transportes/view.ctp:38
+msgid "Related Pedidos"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:68
+#: /views/clientes/view.ctp:68
+#: /views/ordenes/view.ctp:9
+#: /views/transportes/view.ctp:47
+msgid "Estado"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:71
+#: /views/clientes/view.ctp:71
+#: /views/transportes/view.ctp:45
+msgid "Finalizado"
+msgstr ""
+
+#: /views/clientes/admin_view.ctp:72
+#: /views/clientes/view.ctp:72
+#: /views/transportes/view.ctp:46
+msgid "Cliente Id"
+msgstr ""
+
+#: /views/elements/acciones_comunes.ctp:2
+#: /views/pedidos/admin_controlados.ctp:13
+#: /views/pedidos/admin_finalizados.ctp:12
+#: /views/pedidos/admin_index.ctp:17
+#: /views/pedidos/index.ctp:10
+#: /views/pedidos/mobile/index.ctp:9
+msgid "Acciones"
+msgstr ""
+
+#: /views/ivas/add.ctp:4
+msgid "Add Iva"
+msgstr ""
+
+#: /views/ivas/add.ctp:15
+#: /views/ivas/edit.ctp:17
+#: /views/ivas/view.ctp:31
+msgid "List Ivas"
+msgstr ""
+
+#: /views/ivas/edit.ctp:4
+#: /views/ivas/view.ctp:29
+msgid "Edit Iva"
+msgstr ""
+
+#: /views/ivas/index.ctp:2
+msgid "Ivas"
+msgstr ""
+
+#: /views/ivas/index.ctp:49
+#: /views/ivas/view.ctp:32
+msgid "New Iva"
+msgstr ""
+
+#: /views/ivas/view.ctp:2
+msgid "Iva"
+msgstr ""
+
+#: /views/ivas/view.ctp:9
+msgid "Categoria"
+msgstr ""
+
+#: /views/ivas/view.ctp:30
+msgid "Delete Iva"
+msgstr ""
+
+#: /views/ivas/view.ctp:38
+#: /views/localidades/view.ctp:50
+msgid "Related Clientes"
+msgstr ""
+
+#: /views/layouts/Copy of default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: /views/layouts/Copy of default.ctp:39;50
+#: /views/layouts/mobile.ctp:72
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /views/layouts/admin.ctp:25
+#: /views/layouts/default.ctp:25
+#: /views/layouts/mobile.ctp:25
+msgid "ELEFE :: Sistema de Ubicaciones ::"
+msgstr ""
+
+#: /views/layouts/admin.ctp:47
+#: /views/layouts/default.ctp:44
+#: /views/layouts/mobile.ctp:44
+msgid "ELEFE"
+msgstr ""
+
+#: /views/localidades/actualizar.ctp:3
+msgid "Actualización de Localidades"
+msgstr ""
+
+#: /views/localidades/add.ctp:4
+msgid "Add Localidad"
+msgstr ""
+
+#: /views/localidades/add.ctp:17
+#: /views/localidades/edit.ctp:19
+#: /views/localidades/view.ctp:41
+#: /views/provincias/add.ctp:16
+#: /views/provincias/edit.ctp:18
+#: /views/provincias/index.ctp:50
+#: /views/provincias/view.ctp:33
+msgid "List Localidades"
+msgstr ""
+
+#: /views/localidades/add.ctp:18
+#: /views/localidades/edit.ctp:20
+#: /views/localidades/index.ctp:56
+#: /views/localidades/view.ctp:43
+#: /views/provincias/add.ctp:15
+#: /views/provincias/edit.ctp:17
+#: /views/provincias/view.ctp:31
+msgid "List Provincias"
+msgstr ""
+
+#: /views/localidades/add.ctp:19
+#: /views/localidades/edit.ctp:21
+#: /views/localidades/index.ctp:57
+#: /views/localidades/view.ctp:44
+#: /views/provincias/index.ctp:49
+#: /views/provincias/view.ctp:32
+msgid "New Provincia"
+msgstr ""
+
+#: /views/localidades/edit.ctp:4
+#: /views/localidades/view.ctp:39
+msgid "Edit Localidad"
+msgstr ""
+
+#: /views/localidades/index.ctp:2
+msgid "Localidades"
+msgstr ""
+
+#: /views/localidades/index.ctp:55
+#: /views/localidades/view.ctp:42
+#: /views/provincias/add.ctp:17
+#: /views/provincias/edit.ctp:19
+#: /views/provincias/index.ctp:51
+#: /views/provincias/view.ctp:34;75
+msgid "New Localidad"
+msgstr ""
+
+#: /views/localidades/view.ctp:2
+msgid "Localidad"
+msgstr ""
+
+#: /views/localidades/view.ctp:14
+msgid "Codigo Postal"
+msgstr ""
+
+#: /views/localidades/view.ctp:29
+#: /views/provincias/view.ctp:2
+msgid "Provincia"
+msgstr ""
+
+#: /views/localidades/view.ctp:40
+msgid "Delete Localidad"
+msgstr ""
+
+#: /views/ordenes/edit.ctp:4
+#: /views/ordenes/view.ctp:39
+msgid "Edit Orden"
+msgstr ""
+
+#: /views/ordenes/edit.ctp:19
+#: /views/ordenes/view.ctp:41
+#: /views/pedidos/view.ctp:35
+msgid "List Ordenes"
+msgstr ""
+
+#: /views/ordenes/edit.ctp:21
+#: /views/ordenes/index.ctp:59
+#: /views/ordenes/view.ctp:44
+#: /views/pedidos/view.ctp:34
+#: /views/ubicados/admin_add.ctp:44
+#: /views/ubicados/admin_agregar.ctp:28
+#: /views/ubicados/admin_edit.ctp:22
+#: /views/ubicados/view.ctp:44
+#: /views/ubicados/mobile/admin_add.ctp:8
+#: /views/ubicados/mobile/admin_agregar.ctp:8
+msgid "New Articulo"
+msgstr ""
+
+#: /views/ordenes/index.ctp:2
+msgid "Ordenes"
+msgstr ""
+
+#: /views/ordenes/index.ctp:57
+#: /views/ordenes/view.ctp:42
+#: /views/pedidos/view.ctp:36
+msgid "New Orden"
+msgstr ""
+
+#: /views/ordenes/view.ctp:2
+msgid "Orden"
+msgstr ""
+
+#: /views/ordenes/view.ctp:29
+#: /views/pedidos/view.ctp:2
+msgid "Pedido"
+msgstr ""
+
+#: /views/ordenes/view.ctp:40
+msgid "Delete Orden"
+msgstr ""
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: /views/pages/home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: /views/pages/home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: /views/pages/home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:74
+msgid "Editing this Page"
+msgstr ""
+
+#: /views/pages/home.ctp:77
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: /views/pasillos/add.ctp:4
+msgid "Add Pasillo"
+msgstr ""
+
+#: /views/pasillos/add.ctp:16
+#: /views/pasillos/edit.ctp:19
+#: /views/pasillos/view.ctp:36
+#: /views/ubicaciones/add.ctp:17
+#: /views/ubicaciones/edit.ctp:19
+#: /views/ubicaciones/index.ctp:40
+#: /views/ubicaciones/view.ctp:38
+msgid "List Pasillos"
+msgstr ""
+
+#: /views/pasillos/add.ctp:17
+#: /views/pasillos/edit.ctp:20
+#: /views/pasillos/index.ctp:54
+#: /views/pasillos/view.ctp:38
+#: /views/ubicaciones/add.ctp:16
+#: /views/ubicaciones/edit.ctp:18
+#: /views/ubicaciones/view.ctp:36
+#: /views/ubicados/admin_add.ctp:49
+#: /views/ubicados/admin_agregar.ctp:33
+#: /views/ubicados/admin_edit.ctp:23
+#: /views/ubicados/view.ctp:45
+#: /views/ubicados/mobile/admin_add.ctp:13
+#: /views/ubicados/mobile/admin_agregar.ctp:13
+msgid "List Ubicaciones"
+msgstr ""
+
+#: /views/pasillos/add.ctp:18
+#: /views/pasillos/edit.ctp:21
+#: /views/pasillos/index.ctp:55
+#: /views/pasillos/view.ctp:39;80
+#: /views/ubicaciones/index.ctp:39
+#: /views/ubicaciones/view.ctp:37
+#: /views/ubicados/admin_add.ctp:54
+#: /views/ubicados/admin_agregar.ctp:38
+#: /views/ubicados/admin_edit.ctp:24
+#: /views/ubicados/view.ctp:46
+#: /views/ubicados/mobile/admin_add.ctp:18
+#: /views/ubicados/mobile/admin_agregar.ctp:18
+msgid "New Ubicacion"
+msgstr ""
+
+#: /views/pasillos/edit.ctp:4
+#: /views/pasillos/view.ctp:34
+msgid "Edit Pasillo"
+msgstr ""
+
+#: /views/pasillos/index.ctp:2
+msgid "Pasillos"
+msgstr ""
+
+#: /views/pasillos/index.ctp:53
+#: /views/pasillos/view.ctp:37
+#: /views/ubicaciones/add.ctp:18
+#: /views/ubicaciones/edit.ctp:20
+#: /views/ubicaciones/index.ctp:41
+#: /views/ubicaciones/view.ctp:39
+msgid "New Pasillo"
+msgstr ""
+
+#: /views/pasillos/view.ctp:35
+msgid "Delete Pasillo"
+msgstr ""
+
+#: /views/pasillos/view.ctp:43
+msgid "Related Ubicaciones"
+msgstr ""
+
+#: /views/pasillos/view.ctp:49
+#: /views/ubicaciones/view.ctp:14
+msgid "Posicion"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:3
+msgid "Pedidos Controlados"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:52
+#: /views/pedidos/admin_finalizados.ctp:40
+msgid "Ver"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:58
+msgid "Etiquetas"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:69
+#: /views/pedidos/admin_finalizados.ctp:68
+#: /views/pedidos/admin_index.ctp:61
+#: /views/pedidos/index.ctp:47
+#: /views/pedidos/mobile/index.ctp:37
+msgid "Página %page% de %pages%, mostrando %current% registros de un total de %count%, empezando en el registro %start%, terminando en %end%"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:73
+#: /views/pedidos/admin_finalizados.ctp:72
+#: /views/pedidos/admin_index.ctp:66
+#: /views/pedidos/index.ctp:52
+#: /views/pedidos/mobile/index.ctp:42
+msgid "anterior"
+msgstr ""
+
+#: /views/pedidos/admin_controlados.ctp:76
+#: /views/pedidos/admin_finalizados.ctp:75
+#: /views/pedidos/admin_index.ctp:69
+#: /views/pedidos/index.ctp:55
+#: /views/pedidos/mobile/index.ctp:45
+msgid "siguiente"
+msgstr ""
+
+#: /views/pedidos/admin_finalizados.ctp:3
+msgid "Pedidos Finalizados"
+msgstr ""
+
+#: /views/pedidos/admin_finalizados.ctp:52
+msgid "Imprimir"
+msgstr ""
+
+#: /views/pedidos/admin_index.ctp:7
+msgid "Pedidos Pendientes"
+msgstr ""
+
+#: /views/pedidos/admin_index.ctp:52
+msgid "Editar"
+msgstr ""
+
+#: /views/pedidos/admin_index.ctp:53
+#: /views/pedidos/index.ctp:39
+#: /views/pedidos/mobile/index.ctp:29
+msgid "Preparar"
+msgstr ""
+
+#: /views/pedidos/index.ctp:3
+#: /views/pedidos/mobile/index.ctp:3
+msgid "Pedidos"
+msgstr ""
+
+#: /views/pedidos/view.ctp:9
+msgid "Numero"
+msgstr ""
+
+#: /views/pedidos/view.ctp:29
+msgid "Edit Pedido"
+msgstr ""
+
+#: /views/pedidos/view.ctp:30
+msgid "Delete Pedido"
+msgstr ""
+
+#: /views/provincias/actualizar.ctp:3
+msgid "Actualización de Provincias"
+msgstr ""
+
+#: /views/provincias/add.ctp:4
+msgid "Add Provincia"
+msgstr ""
+
+#: /views/provincias/edit.ctp:4
+#: /views/provincias/view.ctp:29
+msgid "Edit Provincia"
+msgstr ""
+
+#: /views/provincias/index.ctp:2
+msgid "Provincias"
+msgstr ""
+
+#: /views/provincias/view.ctp:30
+msgid "Delete Provincia"
+msgstr ""
+
+#: /views/provincias/view.ctp:38
+msgid "Related Localidades"
+msgstr ""
+
+#: /views/provincias/view.ctp:46
+msgid "Provincia Id"
+msgstr ""
+
+#: /views/transportes/add.ctp:4
+msgid "Add Transporte"
+msgstr ""
+
+#: /views/transportes/add.ctp:15
+#: /views/transportes/edit.ctp:17
+#: /views/transportes/view.ctp:31
+msgid "List Transportes"
+msgstr ""
+
+#: /views/transportes/edit.ctp:4
+#: /views/transportes/view.ctp:29
+msgid "Edit Transporte"
+msgstr ""
+
+#: /views/transportes/index.ctp:2
+msgid "Transportes"
+msgstr ""
+
+#: /views/transportes/index.ctp:49
+#: /views/transportes/view.ctp:32
+msgid "New Transporte"
+msgstr ""
+
+#: /views/transportes/view.ctp:2
+msgid "Transporte"
+msgstr ""
+
+#: /views/transportes/view.ctp:30
+msgid "Delete Transporte"
+msgstr ""
+
+#: /views/transportes/view.ctp:48
+msgid "B"
+msgstr ""
+
+#: /views/transportes/view.ctp:49
+msgid "Transporte Id"
+msgstr ""
+
+#: /views/transportes/view.ctp:50
+msgid "Contrarrembolso"
+msgstr ""
+
+#: /views/transportes/view.ctp:51
+msgid "Cobinpro"
+msgstr ""
+
+#: /views/ubicaciones/add.ctp:4
+msgid "Add Ubicacion"
+msgstr ""
+
+#: /views/ubicaciones/edit.ctp:4
+#: /views/ubicaciones/view.ctp:34
+msgid "Edit Ubicacion"
+msgstr ""
+
+#: /views/ubicaciones/index.ctp:2
+msgid "Ubicaciones"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:2
+#: /views/ubicados/view.ctp:29
+msgid "Ubicacion"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:35
+msgid "Delete Ubicacion"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:45
+msgid "Related Ubicados"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:52
+msgid "Articulo Id"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:53
+#: /views/ubicados/view.ctp:24
+msgid "Pasillo Id"
+msgstr ""
+
+#: /views/ubicaciones/view.ctp:54
+msgid "Ubicacion Id"
+msgstr ""
+
+#: /views/ubicados/admin_add.ctp:5
+#: /views/ubicados/admin_agregar.ctp:5
+#: /views/ubicados/mobile/admin_add.ctp:28
+#: /views/ubicados/mobile/admin_agregar.ctp:28
+msgid "Ubicar Artículo"
+msgstr ""
+
+#: /views/ubicados/admin_edit.ctp:4
+#: /views/ubicados/view.ctp:39
+msgid "Edit Ubicado"
+msgstr ""
+
+#: /views/ubicados/admin_edit.ctp:19
+msgid "¿Eliminar # %s?"
+msgstr ""
+
+#: /views/ubicados/admin_index.ctp:13
+msgid "Buscar"
+msgstr ""
+
+#: /views/ubicados/index.ctp:11
+msgid "Buscar Artículos Ubicados"
+msgstr ""
+
+#: /views/ubicados/view.ctp:2
+msgid "Ubicado"
+msgstr ""
+
+#: /views/ubicados/view.ctp:40
+msgid "Delete Ubicado"
+msgstr ""
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

@@ -1,0 +1,17 @@
+﻿SELECT codigo, orden_id, cantidad, orden_estado, id, detalle, unidad,
+	array_agg(pasillo_nombre) AS pasillo_nombre, array_agg(pasillo_lado) AS pasillo_lado, 
+	min(pasillo_distancia) AS pasillo_distancia, array_agg(ubicacion_altura) AS ubicacion_altura, 
+	array_agg(ubicacion_posicion) AS ubicacion_posicion
+FROM (SELECT O.id AS orden_id, O.cantidad AS cantidad, O.estado AS orden_estado, 
+		A.id AS id, A.detalle AS detalle, A.unidad AS unidad, A.codigo,
+		P.nombre AS pasillo_nombre, P.lado AS pasillo_lado, 
+		P.distancia AS pasillo_distancia, Ub.altura AS ubicacion_altura, 
+		Ub.posicion AS ubicacion_posicion, U.estado AS ubicacion_estado 
+	FROM Ordenes AS O, Articulos AS A LEFT JOIN Ubicados AS U ON U.articulo_id = A.id 
+		LEFT JOIN Pasillos AS P ON U.pasillo_id = P.id LEFT JOIN Ubicaciones AS Ub ON U.ubicacion_id = Ub.id
+	WHERE O.pedido_id	= 15
+	AND O.articulo_id 	= A.id
+	ORDER BY ubicacion_estado DESC
+) AS E
+GROUP BY orden_id, cantidad, orden_estado, id, detalle, unidad, codigo
+ORDER BY pasillo_distancia ASC, pasillo_nombre ASC, ubicacion_posicion ASC, ubicacion_altura ASC

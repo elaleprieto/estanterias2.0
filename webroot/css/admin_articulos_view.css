@@ -1,0 +1,9 @@
+.detalles {
+	padding-top: 0px;
+	width: 80%;
+}
+span, span a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #EE3322;
+}

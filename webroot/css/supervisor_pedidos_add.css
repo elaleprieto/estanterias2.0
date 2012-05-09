@@ -1,0 +1,162 @@
+fieldset {
+	padding-top: 5px;
+	padding: 10px;
+}
+.lista {
+	float: left;
+	width: 750%;
+	font-size: 80%;
+}
+.atributos {
+	display: inline-block;
+	width: 205px;
+	margin-bottom: 5px;
+}
+.atributo {
+	vertical-align: top;
+}
+select.articulo {
+	width: 40%;
+}
+select.desplegable {
+	background: -moz-linear-gradient(center top , #F1F1D4, #E6E49F) repeat scroll 0 0 #F1F1D4;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F1F1D4), to(#E6E49F));
+	vertical-align: top;
+	margin-bottom: 5px;
+}
+.textfield {
+	font-size: 100%;
+	height: 20px;
+	padding: 2px;
+	width: 320px;
+}
+img.load {
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+.cantidad {
+	width: 50px;
+	text-align: center;
+}
+/************************************************************
+ * 							div								*
+ ************************************************************/
+div.pedidos_add {
+	padding-top: 0px;
+}
+div.atributo {
+	padding: 0px;
+	margin: 0px;
+}
+div.atributos {
+	padding: 0px;
+	margin: 0px;
+	padding-left: 10px;
+	width: 260px;
+}
+div.lista {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 650px;
+	padding: 0px;
+}
+div.unidad {
+}
+div.observaciones {
+	display: inline-block;
+	width: 160px;
+}
+div.cantidad_articulos {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	color: red;
+}
+/************************************************************
+ * 							label							*
+ ************************************************************/
+label.atributo {
+	margin-bottom: 5px;
+	width: 90px;
+	display: inline-block;
+}
+label {
+	display: inline;
+}
+label.datosCliente {
+	font-size: 120%;
+	vertical-align: top;
+/*	padding-left: 2%;*/
+}
+input.pedidos_add[type="checkbox"] {
+/*    background-image: -moz-linear-gradient(center top , #F1F1D4, #E6E49F);*/
+    -moz-appearance: checkbox;
+    float: none;
+    height: 27px;
+/*	margin-left: 7px;*/
+    margin: 0;
+	vertical-align: middle;
+    width: 27px;
+}
+/************************************************************
+ * 							ID								*
+ ************************************************************/
+#agregar {
+	width: 100%;
+	font-size: 100%;
+	margin: 0px;
+}
+#buscar {
+	padding: 0px;
+	margin: 0px;
+}
+#busqueda {
+	width: 500px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#codigo {
+	width: 50px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#info_cantidad {
+	padding: 0;
+	text-align: center;
+	width: 100%;
+	margin: 0px;
+}
+#presupuesto {
+	-moz-appearance: checkbox;
+}
+#contrarrembolso, #cobinpro {
+	margin-left: 0px;
+}
+#labelCliente, #labelObservaciones {
+	padding-left: 0%;
+}
+#cantidad {
+	padding: 0px;
+    vertical-align: top;
+    width: 155px;
+}
+#unidad {
+/*	margin-left: 35px;*/
+}
+#articuloObservaciones{
+	width: 155px;
+	padding: 0px;
+}
+#lista {
+	width: 100%;
+	background-color: white;
+}
+#siguiente {
+	margin-right: 50px;
+}
+#load_cliente {
+	display: inline;
+	margin: 0;
+    vertical-align: top;
+}

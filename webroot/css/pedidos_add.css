@@ -1,0 +1,141 @@
+fieldset {
+	padding-top: 5px;
+}
+.lista {
+	float: left;
+	width: 750%;
+	font-size: 80%;
+}
+.atributos {
+	display: inline-block;
+	width: 230px;
+	margin-bottom: 5px;
+	height: 160px;
+}
+.atributo {
+	vertical-align: top;
+}
+select.articulo {
+	width: 40%;
+}
+select.desplegable {
+	background: -moz-linear-gradient(center top , #F1F1D4, #E6E49F) repeat scroll 0 0 #F1F1D4;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F1F1D4), to(#E6E49F));
+	vertical-align: top;
+	margin-bottom: 5px;
+}
+.textfield {
+	font-size: 100%;
+	height: 20px;
+	padding: 2px;
+	width: 467px;
+}
+img.load {
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+/************************************************************
+ * 							div								*
+ ************************************************************/
+div.pedidos_add {
+	padding-top: 0px;
+}
+div.atributo {
+	padding: 0px;
+	margin: 0px;
+}
+div.atributos {
+	margin-bottom: 10px;
+	padding-bottom: 0px;
+}
+div.lista {
+	margin-bottom: 0px;
+	margin-left: 85px;
+	width: 790px;
+}
+div.unidad {
+	margin-top: 10px;
+}
+div.observaciones {
+	display: inline-block;
+	width: 160px;
+}
+/************************************************************
+ * 							label							*
+ ************************************************************/
+label.atributo {
+	margin-bottom: 10px;
+	width: 90px;
+	display: inline-block;
+}
+label {
+	display: inline;
+}
+label.datosCliente {
+	font-size: 120%;
+	vertical-align: top;
+/*	padding-left: 2%;*/
+}
+input.pedidos_add[type="checkbox"] {
+	margin-left: 7px;
+}
+/************************************************************
+ * 							ID								*
+ ************************************************************/
+#agregar {
+	width: 130px;
+	font-size: 100%;
+	margin: 0px;
+	margin-left: 60px;
+}
+#busqueda {
+	width: 750px;
+	margin-left: 20px;
+	margin-right: 50px;
+}
+#codigo {
+	width: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#info_cantidad {
+	display: inline-block;
+	padding-top: 0;
+	text-align: center;
+	width: 70%;
+	margin: -20px;
+}
+#presupuesto {
+	-moz-appearance: checkbox;
+}
+#contrarrembolso, #cobinpro {
+	margin-left: 0px;
+}
+#labelCliente, #labelObservaciones {
+	padding-left: 0%;
+}
+#cantidad {
+	padding-bottom: 0;
+    padding-top: 0;
+    vertical-align: top;
+}
+#unidad {
+	margin-left: 35px;
+}
+#articuloObservaciones{
+	width: 185px;
+	height: 100px;
+}
+#lista {
+	width: 100%;
+	background-color: white;
+}
+#siguiente {
+	margin-right: 30px;
+}
+#load_cliente {
+	display: inline;
+	margin: 0;
+    vertical-align: top;
+}

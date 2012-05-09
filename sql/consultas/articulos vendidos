@@ -1,0 +1,10 @@
+﻿SELECT A.id, A.detalle, B.cantidad
+FROM articulos A, ( SELECT A.id, SUM(cantidad) AS cantidad
+	FROM pedidos P, ordenes O, articulos A
+	WHERE P.id = O.pedido_id
+	AND A.id = O.articulo_id
+	AND P.created > DATE('2011-01-01')
+	AND (A.detalle LIKE '%PAMPA%' OR A.detalle LIKE '%A/P%')
+	GROUP BY A.id
+	ORDER BY cantidad DESC ) AS B
+WHERE B.id = A.id

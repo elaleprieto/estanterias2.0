@@ -1,0 +1,1 @@
+<?=json_encode($articulo['Articulo']);?>

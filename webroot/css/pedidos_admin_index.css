@@ -1,0 +1,17 @@
+.observaciones {
+	width: 30%;
+}
+.load {
+	width: 20px;
+	height: 20px;
+}
+table tr.modificada td {
+	background-color: #FFFFBB;
+}
+h2.pendientes {
+	display:inline;
+}
+p.recargado {
+	float:right;
+	color: #EE3322;
+}

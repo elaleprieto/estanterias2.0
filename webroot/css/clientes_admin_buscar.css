@@ -1,0 +1,10 @@
+.buscar {
+	text-align: center;
+}
+input[type=text] {
+    height: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    vertical-align: top;
+    width: 55%;
+}

@@ -1,0 +1,51 @@
+body {
+}
+#header, td.logo {
+    padding: 0px;
+}
+#container {
+	margin: 0 auto;
+	width: 1000px;
+}
+td.header {
+}
+td.header a {
+    color: #000000;
+    text-shadow: white 2px 2px;
+}
+div.header {
+    margin: 0px;
+    margin-right: 5px;
+    width: 130px;
+}
+img.down_arrow {
+	margin-left: 5px;
+	vertical-align: top;
+}
+#menu_articulos, #menu_pedidos, #menu_clientes, #menu_transportes {
+	display: none;
+	background: #E6E49F;
+	background: -webkit-gradient(linear, left top, left bottom, from(#F1F1D4), to(#E6E49F));
+	background: -moz-linear-gradient(center top , #F1F1D4, #E6E49F) repeat scroll 0 0 #E6E49F;
+/*	border-radius: 8px 8px 0px 0px;*/
+	border: 1px solid #AAAC62;
+/*	border-bottom: none;*/
+	border-top: none;
+/*	margin-right: 20%;*/
+	font-size: 80%;
+    margin-left: 85%;
+    position: absolute;
+    width: 130px;
+    padding: 5px;
+    text-align: center;
+    z-index: 10;
+}
+#menu_articulos a, #menu_pedidos a, #menu_clientes a, #menu_transportes a {
+    color: #000000;
+    text-shadow: white 2px 2px;
+    text-decoration: none;
+}
+td.header a:hover, #menu_articulos a:hover, #menu_pedidos a:hover, #menu_clientes a:hover, #menu_transportes a:hover {
+	color: #ffa500;
+    text-decoration: none;
+}
